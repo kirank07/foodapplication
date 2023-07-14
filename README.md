@@ -1,5 +1,3 @@
-# foodapplication
-
 # Food order application
 
 /\*\*
