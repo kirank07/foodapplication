@@ -74,12 +74,12 @@ const Body = () => {
 					>
 						Top Rated Restaurants
 					</button>
-					<input
+					{/* <input
 						type='text'
 						className='items-center text-sm leading-6 text-slate-400 rounded-md ring-1 ring-slate-900/10 shadow-sm py-1.5 pl-2 pr-3 hover:ring-slate-300 dark:bg-slate-800 dark:highlight-white/5 dark:hover:bg-slate-700'
 						value={loggedInUser}
 						onChange={e => setUserName(e.target.value)}
-					></input>
+					></input> */}
 				</div>
 			</div>
 			<div className='flex flex-wrap'>
